@@ -1,9 +1,9 @@
 body {
-	background-color: #a68e72;
+	background-color: #f0ebcc;
 	margin:0;
 	padding: 0;
 	font-family: Arial;
-	color: #363945;
+	color: #3f3697;
 }
 
 a{
@@ -39,7 +39,7 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	background-color: #363945;
+	background-color: #344fa1;
 	width: 100%;
 	margin:0;
 	padding: 0;
@@ -58,7 +58,7 @@ footer {
 }
 
 .menu_elem:hover {
-	background-color: DarkSeaGreen;
+	background-color: #3d84b8;
 }
 
 .menu_aktivelem {
@@ -70,7 +70,7 @@ footer {
 	line-height: 55px;
 	font-size: 20px;
 	color: white;
-	background-color: DarkSeaGreen;
+	background-color: #3d84b8;
 }
 
 .cim {
